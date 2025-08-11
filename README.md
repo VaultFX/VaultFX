@@ -29,7 +29,7 @@ For databases, we work with **MySQL** and **SQLite**, plus **ox_lib** integratio
 <!-- Contact Me -->
 # Get in contact
 Discord: [Click Here](https://discord.com/users/YOUR-DISCORD-ID)<br>
-Discord Server: [Join VaultFX](https://discord.gg/YOURINVITELINK)<br>
+Discord Server: [Join VaultFX](https://discord.gg/mJa3UH7Q2h)<br>
 Website: [vaultfx.dev](https://vaultfx.dev)<br>
 
 <!-- Contact Me -->
