@@ -5,7 +5,7 @@
 <!-- Operating System -->
 # Our Operating System
 Our development machines primarily use:  
-**Windows 11 Pro** & **Windows Server 2022**
+**Windows 11 Pro** & **Windows Server 2016 or Higher**
 
 <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/windows.svg" width=50 height=50>
 
